@@ -16,3 +16,8 @@ We implement 4 cookbooks:
 - **postgres**: in this, we install the postgres database, we configure the schema, the iptables permissions, we indicated which clients are allowed to authenticated to the database and we configure the start of the services.
 
 To run this exercise, clone this repository and realize the "vagrant up" command, remember to use an image of CentOs6.4. If the process end succesfully you will be able to connect via ssh to some of the virtual machines created. In other cases you have to check in your configurations allow you to created this environment.
+
+developed by:
+*maove
+*davidquino
+*yorjaggy
