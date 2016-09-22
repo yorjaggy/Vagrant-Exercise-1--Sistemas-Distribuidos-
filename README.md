@@ -1,4 +1,4 @@
-# vagrantExercise1
+# Vagrant Exercise 1 - Provisioning 2 apaches, a load balancer(haproxy) and a postgres database
 
 ![alt tag](https://github.com/yorjaggy/vagrantExercise1/blob/master/cookbooks/img1.png)
 
