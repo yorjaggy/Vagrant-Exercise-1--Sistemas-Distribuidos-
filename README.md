@@ -4,7 +4,7 @@
 
 In this exercise we use vagrant for provide a environment like the showed in the imagen 1: Two web servers, a database in postgres and a load balancer. 
 
-The version of vagrant used for this exercise is (xxx), the version of centos used was the (xxx) and the host machine was a ubuntu 14.04 with the next specifications. 
+The version of vagrant used for this exercise is (1.7.2), the version of centos used was the (6.4) and the host machine was a ubuntu 14.04 with the next specifications. 
 - 8GB of RAM 
 - Video card dedicated xxx 
 - Intel Core xx 
